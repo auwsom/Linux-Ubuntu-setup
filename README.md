@@ -1,7 +1,7 @@
 # Linux-Ubuntu-setup
 
 
-<iframe src="https://www.youtube.com/embed/{{ include.id }}" 
+<iframe src="https://dynalist.io/d/06oD09dROSdNYyZClhYq2XtR" 
     width="560" 
     height="315"
     frameborder="0" 
